@@ -17,9 +17,9 @@ Before running the files a directory should be created as follows:
 
 
 -Main Folder
-  # R files
+  #R files
     -Twitter Data 
-   # Data from Vidgen et al (2020)
+   #Data from Vidgen et al (2020)
     -EDA plots 
     -Models
       -BigramModels
