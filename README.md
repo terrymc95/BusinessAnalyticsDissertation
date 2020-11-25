@@ -1,4 +1,4 @@
-# BusinessAnalyticsDissertation
+# Business Analytics Dissertation
 This the repository for my MSc Business Analytics dissertation. 
 
 This project focus' on developing a method for rapid hate speech detection on social media sites.
