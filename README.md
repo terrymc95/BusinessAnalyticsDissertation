@@ -7,7 +7,7 @@ It uses the trigger moment of COVID-19 for a rise in anti East-Asian sentiment a
 
 The project write up can be found under Dissertation_Public.pdf
 
-Data for project is by Vidgen et al. and can be found at: https://zenodo.org/record/3816667#.X76sHs37TIV ; selecting hs_AsianPrejudice_20kdataset_cleaned_anonymized.tsv
+Data for project is by Vidgen et al.(2020) and can be found at: https://zenodo.org/record/3816667#.X76sHs37TIV ; selecting hs_AsianPrejudice_20kdataset_cleaned_anonymized.tsv
 
 The code for the project was carried out in R.
 
@@ -19,7 +19,7 @@ Before running the files a directory should be created as follows:
 -Main Folder
   / R files
     -Twitter Data 
-   / Data from Vidgen et al (2020)
+   / Data from Vidgen et al. (2020)
     -EDA plots 
     -Models
       -BigramModels
