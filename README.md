@@ -24,4 +24,4 @@ Before running the files a directory should be created as follows:
     -Models
       -BigramModels
       -SingleTerm
-Where - is a new folder and * needs to be present
+Where - is a new folder and / needs to be present
